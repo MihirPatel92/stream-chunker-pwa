@@ -1,0 +1,23 @@
+{
+  "name": "StreamPlex - Video Streaming PWA",
+  "short_name": "StreamPlex",
+  "description": "Advanced video streaming platform with adaptive bitrate and offline support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1625",
+  "theme_color": "#b444ff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["entertainment", "video", "streaming"],
+  "features": [
+    "video-streaming",
+    "offline-support",
+    "adaptive-bitrate"
+  ]
+}
